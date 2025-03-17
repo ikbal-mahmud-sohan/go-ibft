@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"growtech/go-ibft/messages/proto"
+	"github.com/ikbal-mahmud-sohan/go-ibft/messages/proto"
 )
 
 func TestEventSubscription_EventSupported(t *testing.T) {

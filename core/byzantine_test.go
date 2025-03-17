@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"growtech/go-ibft/messages/proto"
+	"github.com/ikbal-mahmud-sohan/go-ibft/messages/proto"
 
 	"github.com/stretchr/testify/assert"
 )
