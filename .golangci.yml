@@ -82,7 +82,7 @@ linters-settings:
     numbers: true
 
   goimports:
-    local-prefixes: growtech/go-ibft
+    local-prefixes: github.com/ikbal-mahmud-sohan/go-ibft
                     github.com/armon/go-metrics
     
 

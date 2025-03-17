@@ -3,8 +3,8 @@
 package core
 
 import (
-	"growtech/go-ibft/messages"
-	"growtech/go-ibft/messages/proto"
+	"github.com/ikbal-mahmud-sohan/go-ibft/messages"
+	"github.com/ikbal-mahmud-sohan/go-ibft/messages/proto"
 )
 
 // MessageConstructor defines a message constructor interface

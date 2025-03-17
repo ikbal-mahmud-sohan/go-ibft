@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 
-	"growtech/go-ibft/messages/proto"
+	"github.com/ikbal-mahmud-sohan/go-ibft/messages/proto"
 )
 
 var (

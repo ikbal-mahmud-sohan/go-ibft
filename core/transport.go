@@ -1,6 +1,6 @@
 package core
 
-import "growtech/go-ibft/messages/proto"
+import "github.com/ikbal-mahmud-sohan/go-ibft/messages/proto"
 
 // Transport defines an interface
 // the node uses to communicate with other peers

@@ -12,8 +12,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"growtech/go-ibft/messages"
-	"growtech/go-ibft/messages/proto"
+	"github.com/ikbal-mahmud-sohan/go-ibft/messages"
+	"github.com/ikbal-mahmud-sohan/go-ibft/messages/proto"
 )
 
 func proposalMatches(proposal *proto.Proposal, message *proto.IbftMessage) bool {

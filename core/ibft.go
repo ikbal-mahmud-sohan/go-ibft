@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"growtech/go-ibft/messages"
-	"growtech/go-ibft/messages/proto"
+	"github.com/ikbal-mahmud-sohan/go-ibft/messages"
+	"github.com/ikbal-mahmud-sohan/go-ibft/messages/proto"
 	"github.com/armon/go-metrics"
 )
 

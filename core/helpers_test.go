@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"growtech/go-ibft/messages/proto"
+	"github.com/ikbal-mahmud-sohan/go-ibft/messages/proto"
 )
 
 /*	HELPERS */
