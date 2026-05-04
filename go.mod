@@ -1,6 +1,6 @@
 module github.com/ikbal-mahmud-sohan/go-ibft
 
-go 1.20
+go 1.23
 
 require (
 	github.com/armon/go-metrics v0.4.1
@@ -8,7 +8,7 @@ require (
 	github.com/stretchr/testify v1.8.1
 	go.uber.org/goleak v1.2.0
 	google.golang.org/protobuf v1.28.1
-	pgregory.net/rapid v0.5.3
+	pgregory.net/rapid v1.3.0
 )
 
 require (
